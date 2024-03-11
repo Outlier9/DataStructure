@@ -1,0 +1,7 @@
+﻿  SeqList.c
+D:\C C++\program\DataStructure\SeqList\SeqList\SeqList.c(22,7): warning C4013: “free”未定义；假设外部返回 int
+D:\C C++\program\DataStructure\SeqList\SeqList\SeqList.c(45,28): warning C4013: “realloc”未定义；假设外部返回 int
+D:\C C++\program\DataStructure\SeqList\SeqList\SeqList.c(45,1): warning C4047: “初始化”:“SLDataType *”与“int”的间接级别不同
+  Test.c
+  正在生成代码...
+  SeqList.vcxproj -> D:\C C++\program\DataStructure\SeqList\Debug\SeqList.exe
