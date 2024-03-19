@@ -4,7 +4,7 @@
 
 数据结构代码实现
 
-## lesson3 顺序表和链表
+## lesson1 顺序表和链表
 
 ### 1.线性表
 
@@ -44,7 +44,7 @@
 
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/29309193/1708076523625-80a3ff66-1667-4556-8e11-c5fcf23add06.png#averageHue=%23f7f7f6&clientId=u1b16fbec-95c9-4&from=paste&height=387&id=uf61e91b9&originHeight=580&originWidth=1108&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=177156&status=done&style=none&taskId=u07f8d8aa-4c29-4b34-928e-197fe2a7888&title=&width=738.6666666666666)
 
-## lesson4 栈和队列
+## lesson2 栈和队列
 
 ### 1.栈
 
@@ -95,7 +95,7 @@
 
 
 
-## lesson5 二叉树
+## lesson3 二叉树
 
 ### 1.树
 
