@@ -1,0 +1,4 @@
+﻿  Test.c
+D:\C C++\program\DataStructure\Heap\Heap\Test.c(274,67): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\C C++\program\DataStructure\Heap\Heap\Test.c(315): warning C4715: “TreeFind”: 不是所有的控件路径都返回值
+  Heap.vcxproj -> D:\C C++\program\DataStructure\Heap\Debug\Heap.exe
